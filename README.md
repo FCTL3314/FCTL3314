@@ -6,14 +6,18 @@ My path in back-end development began in 2020, and since then I have been consta
 
 ## 🛠️ Technologies
 
-* **Python**
-* **Django / DRF**
-* **FastAPI**
-* **Celery**
-* **PostgreSQL**
-* **Redis**
-* **JavaScript**
-* **HTML / CSS**
+* **Programming Languages:**
+  * Python
+  * Java Script / HTML / CSS
+* **Web Frameworks:**
+  * Django / DRF
+  * FastAPI
+* **Databases:**
+  * PostgresSQL
+  * Redis
+  * RabbitMQ
+* **Other:**
+  * **Celery**
 
 ## 🎯 Projects
 
