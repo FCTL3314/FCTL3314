@@ -20,6 +20,7 @@ My path in back-end development began in 2020, and since then I have been consta
   * RabbitMQ
 * **Other:**
   * Docker
+  * Linux
 
 ## 🎯 Projects
 
