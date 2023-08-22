@@ -4,6 +4,12 @@ Hello 👋, I'm Nikita, a dedicated Python Backend developer looking to improve 
 
 My path in back-end development began in 2020, and since then I have been constantly learning new technologies, actively participating in various projects, while also working as a freelancer.
 
+## 🎯 Projects
+
+* **[Special Recipe](https://github.com/FCTL3314/SpecialRecipe)** - Django / DRF based app created for educational purposes that allows to find and optionally bookmark recipes.
+* **[Store Tracker](https://github.com/FCTL3314/StoreTracker-Backend)** - Django / DRF based app for comparing prices between different stores.
+* **[Menu Manager](https://github.com/FCTL3314/Ylab-Dishes)** - FastAPI application allowing you to manage menus, submenus and dishes.
+
 ## 🛠️ Technologies
 
 * **Programming Languages:**
@@ -21,12 +27,6 @@ My path in back-end development began in 2020, and since then I have been consta
 * **Other:**
   * Docker
   * Linux
-
-## 🎯 Projects
-
-* **[Special Recipe](https://github.com/FCTL3314/SpecialRecipe)** - Django / DRF based app created for educational purposes that allows to find and optionally bookmark recipes.
-* **[Store Tracker](https://github.com/FCTL3314/StoreTracker-Backend)** - Django / DRF based app for comparing prices between different stores.
-* **[Menu Manager](https://github.com/FCTL3314/Ylab-Dishes)** - FastAPI application allowing you to manage menus, submenus and dishes.
 
 ## 📫 How to reach me
 
