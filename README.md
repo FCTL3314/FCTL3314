@@ -10,7 +10,7 @@ My path in back-end development began in 2021, and since then I have been consta
 * **[Store Tracker](https://github.com/FCTL3314/StoreTracker-Backend)** - Django / DRF based app for comparing prices between different stores.
 * **[Menu Manager](https://github.com/FCTL3314/Ylab-Dishes)** - FastAPI application allowing you to manage menus, submenus and dishes.
 
-## 🛠️ Technologies
+<details><summary><h2>🛠️ Technologies</h2></summary>
 
 * **Programming Languages:**
   * Python
@@ -27,6 +27,8 @@ My path in back-end development began in 2021, and since then I have been consta
 * **Other:**
   * Docker
   * Linux
+ 
+ </details>
 
 ## 📫 How to reach me
 
