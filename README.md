@@ -2,7 +2,7 @@
 
 Hello 👋, I'm Nikita, a dedicated Python Backend developer looking to improve my skills and grow.
 
-My path in back-end development began in 2021, and since then I have been constantly learning new technologies, actively participating in various projects, while also working as a freelancer.
+My path in back-end development began in 2022, and since then I have been constantly learning new technologies, actively participating in various projects, while also working as a freelancer.
 
 
 <details><summary><h3>🎯 Projects</h3></summary>
