@@ -10,7 +10,7 @@ My path in back-end development began in 2022, and since then I have been consta
 * **[Special Recipe](https://github.com/FCTL3314/SpecialRecipe)** - Django / DRF based app created for educational purposes that allows to find and optionally bookmark recipes.
 * **[Store Tracker: Backend](https://github.com/FCTL3314/StoreTracker-Backend)** - Django / DRF based app for comparing prices between different stores.
 * **[Store Tracker: Frontend](https://github.com/FCTL3314/StoreTracker-Frontend)** - Vue based app for Store Tracker api.
-* **[Menu Manager](https://github.com/FCTL3314/Ylab-Dishes)** - FastAPI application allowing you to manage menus, submenus and dishes.
+* **[Menu Manager](https://github.com/FCTL3314/Ylab-Dishes)** - FastAPI application allowing to manage menus, submenus and dishes.
 
  </details>
 
