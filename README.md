@@ -23,6 +23,7 @@ My path in back-end development began in 2022, and since then I have been consta
   * Django / DRF
   * FastAPI
   * Celery
+  * Vue.js
   * Bootstrap
 * **Databases:**
   * PostgresSQL
