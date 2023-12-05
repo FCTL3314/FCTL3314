@@ -7,8 +7,8 @@ My path in back-end development began in 2022, and since then I have been consta
 
 <details><summary><h3>🎯 Projects</h3></summary>
 
-* **[Store Tracker: Backend](https://github.com/FCTL3314/StoreTracker-Backend)** - Django / DRF based app for comparing the nutritional value of products. 
-* **[Store Tracker: Frontend](https://github.com/FCTL3314/StoreTracker-Frontend)** - Vue based frontend app for Store Tracker API.
+* **[HealthNutrition-Backend](https://github.com/FCTL3314/StoreTracker-Backend)** - Django / DRF based app for comparing the nutritional value of products. 
+* **[HealthNutrition-Frontend](https://github.com/FCTL3314/StoreTracker-Frontend)** - Frontend part for the Health Nutrition backend. 
 * **[Special Recipe](https://github.com/FCTL3314/SpecialRecipe)** - Django / DRF based app created for educational purposes that allows to find and optionally bookmark recipes.
 * **[Menu Manager](https://github.com/FCTL3314/Ylab-Dishes)** - FastAPI application allowing to manage menus, submenus and dishes.
 
