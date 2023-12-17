@@ -11,7 +11,7 @@ My path in back-end development began in 2022, and since then I have been consta
 * **[Special Recipe](https://github.com/FCTL3314/SpecialRecipe)** - Django / DRF based app created for educational purposes that allows to find and optionally bookmark recipes.
 * **[Menu Manager](https://github.com/FCTL3314/Ylab-Dishes)** - FastAPI application allowing to manage menus, submenus and dishes.
 
-### 🛠️ Technologies
+<details><summary><h3>🛠️ Technologies</h3></summary>
 
 * **Programming Languages:**
   * Python
@@ -29,6 +29,8 @@ My path in back-end development began in 2022, and since then I have been consta
 * **Other:**
   * Docker
   * Linux
+ 
+ </details>
 
 ### 📫 How to reach me
 
