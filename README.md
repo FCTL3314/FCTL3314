@@ -4,17 +4,12 @@ Hello 👋, I'm Nikita, an active Python Backend developer looking to improve my
 
 My path in back-end development began in 2022, and since then I have been constantly learning new technologies, actively participating in various projects, while also working as a freelancer.
 
-
-<details><summary><h3>🎯 Projects</h3></summary>
-
 * **[HealthNutrition-Backend](https://github.com/FCTL3314/StoreTracker-Backend)** - Django / DRF based app for comparing the nutritional value of products. 
 * **[HealthNutrition-Frontend](https://github.com/FCTL3314/StoreTracker-Frontend)** - Frontend part for the Health Nutrition backend. 
 * **[Special Recipe](https://github.com/FCTL3314/SpecialRecipe)** - Django / DRF based app created for educational purposes that allows to find and optionally bookmark recipes.
 * **[Menu Manager](https://github.com/FCTL3314/Ylab-Dishes)** - FastAPI application allowing to manage menus, submenus and dishes.
 
- </details>
-
-<details><summary><h3>🛠️ Technologies</h3></summary>
+### 🛠️ Technologies
 
 * **Programming Languages:**
   * Python
@@ -32,8 +27,6 @@ My path in back-end development began in 2022, and since then I have been consta
 * **Other:**
   * Docker
   * Linux
- 
- </details>
 
 ### 📫 How to reach me
 
