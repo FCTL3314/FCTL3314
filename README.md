@@ -1,6 +1,6 @@
 ### 📃 About
 
-Hello 👋, I'm Nikita, an active Python Backend developer looking to improve my skills and grow.
+Hello 👋, I'm Nikita, an active Python / GoLang Backend developer looking to improve my skills and grow.
 
 My path in back-end development began in 2022, and since then I have been constantly learning new technologies, actively participating in various projects, while also working as full-time developer.
 
