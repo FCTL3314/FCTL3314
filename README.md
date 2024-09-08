@@ -1,8 +1,10 @@
 ### 📃 About
 
-Hello 👋, I'm Nikita, an active Fullstack Python / GoLang developer.
+Hi 👋, I'm Nikita - An active Fullstack developer / Project Manager.
 
-My path in development began in 2022, and since then I have been constantly learning new technologies, actively participating in various projects, while also working as full-time developer.
+My journey in development began in 2022, since then I have independently studied the necessary technologies and at the same time worked as a freelancer. In 2023, I managed to find a full-time job where I still work today. 
+
+If you are interested in cooperation, please contact me :3
 
 ### 🎯 Projects
 
@@ -20,6 +22,7 @@ My path in development began in 2022, and since then I have been constantly lear
 * **Frameworks / Libraries:**
   * Django / DRF
   * FastAPI
+  * Gin
   * Celery
   * Vue.js
   * Bootstrap
@@ -27,8 +30,10 @@ My path in development began in 2022, and since then I have been constantly lear
   * PostgresSQL
   * Redis
   * RabbitMQ
-* **Other:**
-  * Docker
+  * BoltDB
+  * MongoDB
+* **Deployment:**
+  * Docker / Docker-Compose
   * Linux
  
  </details>
