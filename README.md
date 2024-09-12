@@ -6,8 +6,9 @@ My journey in development began in 2022, since then I have independently studied
 
 If you are interested in cooperation, please contact me :3
 
-### 🎯 Projects
+### 🎯 Experience / Projects
 
+* Worked on a large CRM system at uForce
 * **[HealthNutrition-Backend](https://github.com/FCTL3314/StoreTracker-Backend)** - Django / DRF based app for comparing the nutritional value of products. 
 * **[HealthNutrition-Frontend](https://github.com/FCTL3314/StoreTracker-Frontend)** - Frontend part for the Health Nutrition backend. 
 * **[Special Recipe](https://github.com/FCTL3314/SpecialRecipe)** - Django / DRF based app created for educational purposes that allows to find and optionally bookmark recipes.
