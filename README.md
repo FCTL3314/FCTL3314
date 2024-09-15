@@ -10,6 +10,7 @@ If you are interested in cooperation, please contact me :3
 
 * Worked on a large CRM system at uForce
 * Developed a system for real-time import (synchronization) of data from one CRM system to another.
+* Managed project development.
 * **[HealthNutrition-Backend](https://github.com/FCTL3314/StoreTracker-Backend)** - Django / DRF based app for comparing the nutritional value of products. 
 * **[HealthNutrition-Frontend](https://github.com/FCTL3314/StoreTracker-Frontend)** - Frontend part for the Health Nutrition backend. 
 * **[Special Recipe](https://github.com/FCTL3314/SpecialRecipe)** - Django / DRF based app created for educational purposes that allows to find and optionally bookmark recipes.
