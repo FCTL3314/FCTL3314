@@ -1,6 +1,6 @@
 ### 📃 About
 
-Hi 👋, I'm Nikita - An active Fullstack developer / Project Manager.
+Hi 👋, I'm Nikita - An active Fullstack Developer / Project Manager.
 
 My journey in development began in 2022, since then I have independently studied the necessary technologies and at the same time worked as a freelancer. In 2023, I managed to find a full-time job where I still work today. 
 
