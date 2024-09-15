@@ -8,7 +8,7 @@ If you are interested in cooperation, please contact me :3
 
 ### 🎯 Experience / Projects
 
-* Worked on a large CRM system at uForce
+* Developed backend logic for a large CRM systems.
 * Developed a system for real-time import (synchronization) of data from one CRM system to another.
 * Managed project development.
 * **[HealthNutrition-Backend](https://github.com/FCTL3314/StoreTracker-Backend)** - Django / DRF based app for comparing the nutritional value of products. 
