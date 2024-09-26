@@ -10,6 +10,7 @@ If you are interested in cooperation, please contact me :3
 
 * Developed backend logic for a large CRM systems.
 * Developed a system for real-time import (synchronization) of data from one CRM system to another.
+* Developed a robust messaging system for sending mass notifications to various messenger platforms, with rate-limiting to prevent exceeding platform limits and avoid spamming customers.
 * Managed project development.
 * **[HealthNutrition-Backend](https://github.com/FCTL3314/StoreTracker-Backend)** - Django / DRF based app for comparing the nutritional value of products. 
 * **[HealthNutrition-Frontend](https://github.com/FCTL3314/StoreTracker-Frontend)** - Frontend part for the Health Nutrition backend. 
