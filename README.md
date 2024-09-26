@@ -8,9 +8,9 @@ If you are interested in cooperation, please contact me :3
 
 ### 🎯 Experience / Projects
 
-* Engineered backend architecture for large-scale CRM systems, ensuring seamless performance and scalability.
-* Created a real-time data synchronization system, enabling seamless data import and synchronization between different CRM platforms.
-* Developed a robust messaging system for sending mass notifications to various messenger platforms, with rate-limiting to prevent exceeding platform limits and avoid spamming customers.
+* Designed and implemented backend solutions for large CRM systems, focusing on performance optimization and scalability.
+* Built a system for real-time data import and synchronization between CRM platforms, ensuring smooth and reliable integration.
+* Developed a messaging platform for mass notifications across different messengers, including smart rate-limiting to prevent spamming customers.
 * Managed project development.
 * **[HealthNutrition-Backend](https://github.com/FCTL3314/StoreTracker-Backend)** - Django / DRF based app for comparing the nutritional value of products. 
 * **[HealthNutrition-Frontend](https://github.com/FCTL3314/StoreTracker-Frontend)** - Frontend part for the Health Nutrition backend. 
