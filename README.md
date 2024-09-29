@@ -12,11 +12,11 @@ If you are interested in cooperation, please contact me :3
 * Built a system for real-time data import and synchronization between CRM platforms, ensuring smooth and reliable integration.
 * Developed a messaging platform for mass notifications across different messengers, including smart rate-limiting to prevent spamming customers.
 * Managed project development.
-* **[HealthNutrition-Backend](https://github.com/FCTL3314/StoreTracker-Backend)** - Python / Django based backend server for comparing the nutritional value of products.
-* **[HealthNutrition-Frontend](https://github.com/FCTL3314/StoreTracker-Frontend)** - Vue.js based frontend for the Health Nutrition backend server.
-* **[ExerciseManager-Backend](https://github.com/FCTL3314/ExerciseManager-Backend)** - GoLang / Gin based backend server for managing workout routines.
-* **[ExerciseManager-Bot](https://github.com/FCTL3314/ExerciseManager-Bot)** - Python / Aiogram based telegram bot for Exercise Manager backend server.
-* **[Special Recipe](https://github.com/FCTL3314/SpecialRecipe)** - Django / DRF based app created for educational purposes that allows to find and optionally bookmark recipes.
+* **[HealthNutrition-Backend](https://github.com/FCTL3314/StoreTracker-Backend)** - A Python/Django backend that provides APIs for comparing the nutritional value of various products.
+* **[HealthNutrition-Frontend](https://github.com/FCTL3314/StoreTracker-Frontend)** - A Vue.js frontend that interfaces with the HealthNutrition backend, offering a user-friendly interface for nutritional comparisons.
+* **[ExerciseManager-Backend](https://github.com/FCTL3314/ExerciseManager-Backend)** - A GoLang/Gin-powered backend server for creating, managing, and tracking workout routines and progress.
+* **[ExerciseManager-Bot](https://github.com/FCTL3314/ExerciseManager-Bot)** -  A Python/Aiogram-based Telegram bot that integrates with the ExerciseManager backend, providing workout reminders and tracking in chat.
+* **[Special Recipe](https://github.com/FCTL3314/SpecialRecipe)** - A Python/Django-based backend application developed for educational purposes, allowing users to search for and bookmark recipes.
 
 <details><summary><h3>🛠️ Technologies</h3></summary>
 
