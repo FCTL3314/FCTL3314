@@ -13,7 +13,7 @@ If you are interested in cooperation, please contact me :3
 * Developed a messaging platform for mass notifications across different messengers, including smart rate-limiting to prevent spamming customers.
 * Managed project development.
 * **[HealthNutrition-Backend](https://github.com/FCTL3314/StoreTracker-Backend)** - Python / Django based backend server for comparing the nutritional value of products.
-* **[HealthNutrition-Frontend](https://github.com/FCTL3314/StoreTracker-Frontend)** - Vue.js based frontend part for the Health Nutrition server.
+* **[HealthNutrition-Frontend](https://github.com/FCTL3314/StoreTracker-Frontend)** - Vue.js based frontend for the Health Nutrition backend server.
 * **[ExerciseManager-Backend](https://github.com/FCTL3314/ExerciseManager-Backend)** - GoLang / Gin based backend server for managing workout routines.
 * **[ExerciseManager-Bot](https://github.com/FCTL3314/ExerciseManager-Bot)** - Python / Aiogram based telegram bot for Exercise Manager backend server.
 * **[Special Recipe](https://github.com/FCTL3314/SpecialRecipe)** - Django / DRF based app created for educational purposes that allows to find and optionally bookmark recipes.
