@@ -12,10 +12,11 @@ If you are interested in cooperation, please contact me :3
 * Built a system for real-time data import and synchronization between CRM platforms, ensuring smooth and reliable integration.
 * Developed a messaging platform for mass notifications across different messengers, including smart rate-limiting to prevent spamming customers.
 * Managed project development.
-* **[HealthNutrition-Backend](https://github.com/FCTL3314/StoreTracker-Backend)** - Django / DRF based app for comparing the nutritional value of products. 
-* **[HealthNutrition-Frontend](https://github.com/FCTL3314/StoreTracker-Frontend)** - Frontend part for the Health Nutrition backend. 
+* **[HealthNutrition-Backend](https://github.com/FCTL3314/StoreTracker-Backend)** - Python / Django based backend server for comparing the nutritional value of products.
+* **[HealthNutrition-Frontend](https://github.com/FCTL3314/StoreTracker-Frontend)** - Vue.js based frontend part for the Health Nutrition server.
+* **[ExerciseManager-Backend](https://github.com/FCTL3314/ExerciseManager-Backend)** - GoLang / Gin based backend server for managing workout routines.
+* **[ExerciseManager-Bot](https://github.com/FCTL3314/ExerciseManager-Bot)** - Python / Aiogram based telegram bot for Exercise Manager backend server.
 * **[Special Recipe](https://github.com/FCTL3314/SpecialRecipe)** - Django / DRF based app created for educational purposes that allows to find and optionally bookmark recipes.
-* **[Menu Manager](https://github.com/FCTL3314/Ylab-Dishes)** - FastAPI application allowing to manage menus, submenus and dishes.
 
 <details><summary><h3>🛠️ Technologies</h3></summary>
 
