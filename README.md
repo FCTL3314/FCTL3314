@@ -34,7 +34,6 @@ I’m always open to new opportunities and collaborations, so feel free to reach
   * PostgresSQL
   * Redis
   * RabbitMQ
-  * BoltDB
   * MongoDB
 * **Deployment:**
   * Docker / Docker-Compose
