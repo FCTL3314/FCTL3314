@@ -1,6 +1,6 @@
 ### 📃 About
 
-Hi 👋, I’m Nikita – a Fullstack Developer and Project Manager with a passion for building efficient and scalable solutions.
+Hi 👋, I’m Nikita – a Backend Engineer with a passion for building efficient and scalable solutions.
 
 My development journey started in 2022 when I dove into learning the necessary technologies while freelancing. In 2023, I transitioned to a full-time role, where I continue to apply and grow my skills.
 
