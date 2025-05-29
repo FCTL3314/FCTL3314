@@ -1,16 +1,21 @@
 ### 📃 About
 
-Hi 👋, I’m Nikita – a Backend Engineer with a passion for building efficient and scalable solutions.
+Hi 👋, I’m Nikita, a backend engineer with over 3 years of experience working mainly with Go and Python.
 
-My development journey started in 2022 when I dove into learning the necessary technologies while freelancing. In 2023, I transitioned to a full-time role, where I continue to apply and grow my skills.
+I’ve built projects using both monoliths and microservices, focusing on making things work well and keeping the code clean and easy to maintain.
 
 I’m always open to new opportunities and collaborations, so feel free to reach out if you're interested in cooperation! :3
 
-### 🎯 Experience / Projects
+### 🧩 Experience
 
-* Designed and built backend architectures for large-scale CRM systems, with a focus on optimization and scalability.
-* Developed a robust system for real-time data import and synchronization between CRM platforms, ensuring seamless integration.
-* Created a messaging platform for mass notifications across multiple messaging apps, incorporating smart rate-limiting to avoid spamming users.
+* **Designed and developed backend architecture** for a high-load CRM system used by one of the largest beauty salons, covering client scheduling, inventory management, payroll calculation, and customer communication.
+* **Built a real-time data import and synchronization system** between CRM platforms, enabling seamless data flow and consistent updates across systems.
+* **Created a smart messaging platform** for mass notifications and automated reminders, supporting multiple messengers (Telegram, Instagram, etc.) with built-in rate-limiting to avoid spam and platform restrictions.
+* **Implemented an integrated messenger aggregator**, unifying communication across platforms into a single interface and setting up reliable integrations with each service.
+* **Developed a payroll and employee tracking module** for an internal company system, including manager-employee relationships, salary calculations, and role-based access.
+
+### ⚙️ Projects
+
 * **[HealthNutrition-Backend](https://github.com/FCTL3314/StoreTracker-Backend)** - Backend API built with Python/Django for comparing nutritional values of different products.
 * **[HealthNutrition-Frontend](https://github.com/FCTL3314/StoreTracker-Frontend)** - Vue.js-based frontend for interacting with the [HealthNutrition-Backend](https://github.com/FCTL3314/StoreTracker-Backend), offering an intuitive way to compare nutritional data.
 * **[ExerciseManager-Backend](https://github.com/FCTL3314/ExerciseManager-Backend)** - GoLang/Gin backend for managing workout routines and tracking user progress.
