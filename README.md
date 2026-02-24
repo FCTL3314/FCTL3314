@@ -4,7 +4,7 @@ Hi 👋, I’m Nikita, a backend engineer with over 3 years of experience workin
 
 I’ve built projects using both monoliths and microservices, focusing on making things work well and keeping the code clean and easy to maintain.
 
-I’m always open to new opportunities and collaborations, so feel free to reach out if you're interested in cooperation! :3
+I’m always open to new opportunities and collaborations, so feel free to reach out if you're interested in cooperation!
 
 ### 🧩 Experience
 
