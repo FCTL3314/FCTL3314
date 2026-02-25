@@ -1,6 +1,6 @@
 ### 📃 About
 
-Hi 👋, I’m Nikita, a backend engineer with over 3 years of experience working mainly with Go and Python.
+Hi 👋, I’m Nikita, a backend engineer with 4 years of experience working mainly with Python and Go.
 
 I’ve built projects using both monoliths and microservices, focusing on making things work well and keeping the code clean and easy to maintain.
 
