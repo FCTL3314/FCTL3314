@@ -48,5 +48,5 @@ I’m always open to new opportunities and collaborations, so feel free to reach
 
 ### 📫 How to reach me
 
-[![Telegram](https://img.shields.io/badge/Telegram-@f__c__t__l-29A0DC?style=flat-square&logo=telegram)](https://t.me/f_c_t_l)
-[![Gmail](https://img.shields.io/badge/Gmail-solovev.nikita.05@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:solovev.nikita.05@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@nsolovievvv-29A0DC?style=flat-square&logo=telegram)](https://t.me/nsolovievvv)
+[![Gmail](https://img.shields.io/badge/Gmail-nsolovyov00@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:nsolovyov00@gmail.com)
