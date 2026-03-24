@@ -6,14 +6,6 @@ I’ve built projects using both monoliths and microservices, focusing on making
 
 I’m always open to new opportunities and collaborations, so feel free to reach out if you're interested in cooperation!
 
-### 🧩 Experience
-
-* **Designed and developed backend architecture** for a high-load CRM system used by one of the largest beauty salons, covering client scheduling, inventory management, payroll calculation, and customer communication.
-* **Built a real-time data import and synchronization system** between CRM platforms, enabling seamless data flow and consistent updates across systems.
-* **Created a smart messaging platform** for mass notifications and automated reminders, supporting multiple messengers (Telegram, Instagram, etc.) with built-in rate-limiting to avoid spam and platform restrictions.
-* **Implemented an integrated messenger aggregator**, unifying communication across platforms into a single interface and setting up reliable integrations with each service.
-* **Developed a payroll and employee tracking module** for an internal company system, including manager-employee relationships, salary calculations, and role-based access.
-
 ### ⚙️ Projects
 
 * **[HealthNutrition-Backend](https://github.com/FCTL3314/StoreTracker-Backend)** - Backend API built with Python/Django for comparing nutritional values of different products.
