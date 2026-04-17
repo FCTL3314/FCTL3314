@@ -53,4 +53,4 @@ Always open to new opportunities and collaborations, feel free to reach out!
 
 ### 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/Telegram-@f_c_t_l-29A0DC?style=flat-square&logo=telegram)](https://t.me/f_c_t_l)
-[![iCloud](https://img.shields.io/badge/iCloud-nsolovyov00@gmail.com-3589ea?style=flat-square&logo=icloud)](mailto:nsolovyov00@gmail.com)
+[![iCloud](https://img.shields.io/badge/iCloud-nikita.solovev@icloud.com-3589ea?style=flat-square&logo=icloud)](mailto:nikita.solovev@icloud.com)
